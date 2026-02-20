@@ -1,7 +1,25 @@
-Seleção de Ferramentas:
+<h1>📌 Seleção de Ferramentas</h1>
 
-Gestão de Requisitos: Vamos usar Notion para listar as Regras de Negócio e Casos de Uso porque ele facilita a organização e consulta das informações de forma clara e centralizada.
+<h2>📋 Gestão de Requisitos</h2>
+<p>
+Utilizaremos o <strong>Notion</strong> para listar as Regras de Negócio e os Casos de Uso.
+A escolha foi feita porque a ferramenta facilita a organização e a consulta das informações
+de forma clara, estruturada e centralizada. Além disso, permite acesso online e colaboração
+entre os membros da equipe.
+</p>
 
-Modelagem: Vamos usar o Lucidchart porque ele é uma ferramenta fácil de usar e funciona direto no navegador, o que facilita bastante o trabalho em grupo. Como é online, todos os integrantes da equipe podem acessar e editar os diagramas ao mesmo tempo, o que ajuda na organização e na colaboração.
+<h2>🧩 Modelagem</h2>
+<p>
+Para a modelagem dos diagramas UML, utilizaremos o <strong>Lucidchart</strong>.
+A ferramenta é fácil de usar e funciona diretamente no navegador, o que facilita
+o trabalho em grupo. Como é online, todos os integrantes da equipe podem acessar
+e editar os diagramas simultaneamente, promovendo organização e colaboração.
+</p>
 
-Repositório de Artefatos: Vamos usar o GitHub para guardar e organizar os nossos arquivos, escolhemos ele por que é uma ferramenta bem difundida no mercado e com boa documentação.
+<h2>💾 Repositório de Artefatos</h2>
+<p>
+Utilizaremos o <strong>GitHub</strong> para armazenar e organizar os artefatos do projeto.
+A escolha se deve ao fato de ser uma ferramenta amplamente difundida no mercado,
+com excelente documentação, controle de versão eficiente e suporte à colaboração
+entre desenvolvedores.
+</p>
