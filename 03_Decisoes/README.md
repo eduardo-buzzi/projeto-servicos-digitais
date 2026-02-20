@@ -1,4 +1,4 @@
-<h1>📌 Seleção de Ferramentas</h1>
+<h1>📌 <b>Seleção de Ferramentas</b></h1>
 
 <h2>📋 Gestão de Requisitos</h2>
 <p>
@@ -8,7 +8,7 @@ de forma clara, estruturada e centralizada. Além disso, permite acesso online e
 entre os membros da equipe.
 </p>
 
-<h2>🧩 Modelagem</h2>
+<h2>🧩 <b>Modelagem</b></h2>
 <p>
 Para a modelagem dos diagramas UML, utilizaremos o <strong>Lucidchart</strong>.
 A ferramenta é fácil de usar e funciona diretamente no navegador, o que facilita
@@ -16,7 +16,7 @@ o trabalho em grupo. Como é online, todos os integrantes da equipe podem acessa
 e editar os diagramas simultaneamente, promovendo organização e colaboração.
 </p>
 
-<h2>💾 Repositório de Artefatos</h2>
+<h2>💾 <b>Repositório de Artefatos</b></h2>
 <p>
 Utilizaremos o <strong>GitHub</strong> para armazenar e organizar os artefatos do projeto.
 A escolha se deve ao fato de ser uma ferramenta amplamente difundida no mercado,
